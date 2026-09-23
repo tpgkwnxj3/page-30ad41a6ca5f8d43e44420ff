@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "419716e11253d730b96e999b",
+  "owner": "tpgkwnxj3",
+  "repo": "page-30ad41a6ca5f8d43e44420ff",
+  "title": "Geek",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "30ad41a6ca5f8d43e44420ff",
+      "a": "Geek",
+      "b": "2027最新官网",
+      "entity": "Geek",
+      "brand": "Geek",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "64430ca50b8402751d8cd793d0ac1f86afc9faa87f80ec053d6f6040132e0018",
+      "content": {
+        "primary_entity": "Geek",
+        "keyword1": "Geek",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开。Geek 提供基础版、旗舰版和团队版三档方案，月付价格从 ¥15 到 ¥85，按年付可享 ¥150/年、¥350/年或 ¥850/年。每档方案在流量额度、同时在线设备数量与节点类型上有所区别，方便按个人、家庭或团队规模进行取舍。选择时先确认同时在线设备数量，再对照流量额度与节点需求，最后依照客户端文档导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "按设备与用量选套餐",
+          "AI_HERO_INTRO": "Geek 面向海外网络加速场景，提供多档订阅方案与多平台客户端支持。不同套餐在流量额度、在线设备数量与节点类型上有明确区分，可依照个人、家庭或团队的实际需求选择，并按客户端文档完成订阅配置。",
+          "AI_VISUAL_TITLE": "Geek 加速方案速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按年付更省，最低 ¥150/年",
+          "AI_HIGHLIGHT_3": "多客户端按设备导入订阅",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURES_INTRO": "从流量、设备数量与订阅周期三个角度梳理 Geek 的使用方式。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB 流量，旗舰版 ¥35/月含 300GB，团队版 ¥85/月含 1000GB。",
+          "AI_FEATURE_TITLE_2": "设备数量对号入座",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "三档均可按月付费，也可选择年付，年付价格分别为 ¥150、¥350 与 ¥850。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备的订阅导入方式存在差异，按系统选择对应客户端并参照其文档操作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版平衡流量与设备数量，团队版面向多设备高流量场景。",
+          "AI_GUIDE_TITLE": "配置三步走",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅导入，按顺序处理即可。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TEXT_1": "先统计常用设备数量与每月大致流量，再对照三档套餐的额度与设备上限进行选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与所用客户端，了解订阅导入所需的配置信息与网络环境要求。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_STEP_TEXT_3": "打开对应客户端，按照其配置文档导入订阅信息，完成后检查节点连通状态即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_CLOSING_TEXT": "先按设备数量与流量需求确定套餐，再跟随客户端文档完成订阅导入。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "Geek 三档套餐主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "主要在价格、流量和并发设备数。基础版 ¥15/月、100GB、3 台设备；旗舰版 ¥35/月、300GB、5 台设备并含 IPLC 专线；团队版 ¥85/月、1000GB、20 台设备与定制路由。",
+          "AI_FAQ_QUESTION_2": "年付比月付划算吗？",
+          "AI_FAQ_ANSWER_2": "年付总价更低：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用同一档位时，年付可减少续费次数并降低月均支出。",
+          "AI_FAQ_QUESTION_3": "设备数量超出套餐上限怎么办？",
+          "AI_FAQ_ANSWER_3": "同一时间在线的设备数不能超过所选档位上限。若经常超出，可升级到旗舰版 5 台或团队版 20 台，避免连接被挤占。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "获取订阅信息后，按所用客户端的使用文档导入即可。不同系统操作路径不同，建议先确认客户端版本，再按文档逐步配置。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量、20 台设备并发、VIP 高带宽节点与定制路由，适合小型团队、多设备办公或对带宽要求较高的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--giegiecloud-pr1t577n.com",
+    "host": "xn--giegiecloud-pr1t577n.com"
+  },
+  "file_hashes": {
+    "index.html": "546c1b137d245e22663eac1fe115bc937af927abbe39474ee2e957b33471d085",
+    "sitemap.xml": "60725b72448f3ed05cda3c72149fa25a3fd9f09a9e22e6d6dec800f053a259ef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d86e9810f53c699e28595501069aefbd8ef24bfd5dd2be051cc45fe3a6aff1dc",
+    "robots.txt": "ef1d4ef8aef4245c3a458f213336c3374c6137de2d5b4e92cfacb2c5ad4e6758",
+    "e905de0b7348397a2426bc16ae173fcc.txt": "faafc258106aa2d0e0b5b5917500eaeb0db81aa07f00ba9ff2ccbd0c2a766963"
+  },
+  "revision": "aacb333b6c1a713922b49bbd9af6fe0b00c7953bb095a03bc50ed5a9ecceba8a"
+}
